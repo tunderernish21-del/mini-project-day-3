@@ -4,12 +4,11 @@ function setup() {
 }
 
 function draw() {
-  
   noStroke(0);
-  fill(200,0,100)
+  fill(245, 246, 247)
   ellipse(mouseX, mouseY, 25)
 }
 
 function mousePressed() {
-  background(100);
+  background(47, 189, 186);
 }
